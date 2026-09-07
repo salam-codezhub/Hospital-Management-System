@@ -95,4 +95,4 @@ Because this project does not use a database, Java object serialization is used 
 
 ## Author
 
-Student Project - Hospital Management System
+SALAM KHAN
