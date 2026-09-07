@@ -1,8 +1,10 @@
 ---
 Hospital Management System
+---
 A command-line Hospital Management System developed using Core Java only. The project demonstrates Object-Oriented Programming, collections, exception handling, validation, sorting/searching, and file-based persistence without a database.
 ---
 Features
+---
 Patient management
 Doctor management
 Appointment booking with conflict validation
@@ -14,6 +16,7 @@ Input validation and custom exceptions
 Command-line execution
 ---
 Technologies
+---
 Java 17 or newer
 Java Standard Library
 No database
@@ -21,6 +24,7 @@ No external dependencies
 No GUI
 ---
 Project Structure
+---
 ```text
 HospitalManagementSystem/
 ├── README.md
@@ -40,6 +44,7 @@ HospitalManagementSystem/
 └── data/
 ```
 Requirements
+---
 Install Java JDK 17 or later and make sure `java` and `javac` are available in the terminal.
 Check:
 ```bash
